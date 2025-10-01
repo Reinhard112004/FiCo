@@ -114,7 +114,7 @@
         android:layout_height="49dp"
         android:layout_marginBottom="88dp"
         android:background="#FFFFFF"
-        android:text="Sign Up"
+        android:text="Login Bang"
         android:textColor="#000000"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
